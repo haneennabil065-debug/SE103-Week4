@@ -11,18 +11,15 @@ the count, or an error if the list is empty
 
 Pseudocode:
 START
-
-1. IF the list is empty THEN
-   Display "Error: list is empty"
-   STOP
-   ELSE
-   Set count = 0
-2. FOR each number in the list
-3. ```
-   IF number > 10 THEN
-      Increase count by 1
-   END IF
-   ```
-4. END FOR
-5. Display count
-   END
+IF the list is empty THEN
+Display "Error: list is empty"
+ELSE
+Set count = 0
+FOR each number in the list
+IF number > 10 THEN
+Increase count by 1
+END IF
+END FOR
+Display count
+END IF
+END
