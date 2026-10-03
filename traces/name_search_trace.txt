@@ -1,0 +1,23 @@
+Student Name: Haneen Alzayat
+Name list: ["Ama", "Kofi", "Yaw"]
+
+Trace 1 - target "Kofi":
+
+1. Start with found = false.
+2. Compare "Ama" with "Kofi": they are different.
+3. Compare "Kofi" with "Kofi": they match.
+4. Set found = true and stop the search.
+   Result: Found
+
+Trace 2 - target "Efua":
+
+1. Start with found = false.
+2. Compare "Ama" with "Efua": they are different.
+3. Compare "Kofi" with "Efua": they are different.
+4. Compare "Yaw" with "Efua": they are different.
+5. The list ends and found is still false.
+   Result: Not found
+
+Empty list input: []
+Empty list result:
+Error: list is empty
