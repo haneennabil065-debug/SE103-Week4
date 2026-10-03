@@ -1,0 +1,39 @@
+Student Name: Haneen Alzayat
+
+Problem:
+I need to submit an assignment online before the deadline. I must check the file and make sure the submission is completed successfully.
+
+Input:
+The completed assignment file, the assignment instructions, an internet connection, and access to the submission platform.
+
+Output:
+The assignment is successfully submitted and a submission confirmation is shown.
+
+Edge Case Handled:
+The assignment file is missing or the internet connection stops working before the submission is completed.
+
+Pseudocode:
+START
+
+1. Open the assignment instructions.
+2. Check that the assignment file is complete.
+3. IF the file is missing or incomplete THEN
+   Fix or complete the file.
+   ELSE
+   Continue to the next step.
+4. Open the online submission platform.
+5. Log in to my account.
+6. Upload the assignment file.
+7. IF the file uploads successfully THEN
+   Submit the assignment.
+   Check for a submission confirmation.
+   ELSE
+   Check the internet connection and try uploading again.
+8. IF a submission confirmation appears THEN
+   Record that the assignment was submitted.
+   ELSE
+   Try the submission again.
+   END
+
+Why this is clear enough to follow:
+The steps are written in a specific order from checking the assignment to confirming the submission. The IF/ELSE decisions explain what to do when the file is incomplete or the upload fails. Each step has one clear action, so there is less chance of confusion. The process also ends by checking that the submission was actually successful.
