@@ -1,0 +1,28 @@
+Student Name: Haneen Alzayat
+
+Problem:
+Find which scores failed.
+
+Input:
+a list of student scores
+
+Output:
+the failing scores, or a message if no one failed
+
+Failing rule:
+score < 50
+
+Pseudocode:
+START
+Create an empty list called failing_scores.
+FOR each score in the list of student scores
+IF score < 50 THEN
+Add the score to failing_scores.
+END IF
+END FOR
+IF failing_scores is empty THEN
+Display "No students failed."
+ELSE
+Display the failing_scores list.
+END IF
+END
