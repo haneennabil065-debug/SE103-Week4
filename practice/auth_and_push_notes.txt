@@ -1,0 +1,16 @@
+Student Name: Haneen Alzayat
+GitHub Username: haneennabil065-debug
+
+Authentication method I used: PAT
+
+Why I chose this method:
+I chose a Personal Access Token because it allows Git to authenticate securely with GitHub when using HTTPS. It is also easier for me to use while I am learning Git and GitHub.
+
+One security habit I must follow with this method:
+I must keep my Personal Access Token private and never share it in messages, screenshots, or public files. I should also replace or revoke it if I think it has been exposed.
+
+Difference between a commit and a push:
+A commit saves my staged changes as a new version in my local Git repository. A push sends my local commits to the remote GitHub repository. A commit can exist on my computer even when it has not been uploaded to GitHub yet. I use push when I want the remote repository to receive my local commits.
+
+My repository URL:
+https://github.com/haneennabil065-debug/SE103-Week4
