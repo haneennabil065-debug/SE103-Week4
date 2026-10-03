@@ -1,3 +1,3 @@
 # SE103-Week4
-Student Name: haneen alzayat
+Student Name: Haneen Alzayat
 GitHub Username: haneennabil065-debug
