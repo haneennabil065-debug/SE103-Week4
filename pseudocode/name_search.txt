@@ -1,0 +1,34 @@
+Student Name: Haneen Alzayat
+
+Problem:
+Search a list of names for one target name and report whether it was found.
+
+Input:
+
+* a list of names
+* one target name
+
+Output:
+
+* "Found" or "Not found"
+* or an error if the list is empty
+
+Pseudocode:
+START
+IF the list is empty THEN
+Display "Error: list is empty"
+ELSE
+Set found = false
+FOR each name in the list
+IF name equals the target name THEN
+Set found = true
+BREAK the loop
+END IF
+END FOR
+IF found is true THEN
+Display "Found"
+ELSE
+Display "Not found"
+END IF
+END IF
+END
