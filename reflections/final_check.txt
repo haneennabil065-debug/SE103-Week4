@@ -1,0 +1,15 @@
+Student Name: Haneen Alzayat
+GitHub Username: haneennabil065-debug
+Repository: SE103-Week4
+Repository URL: https://github.com/haneennabil065-debug/SE103-Week4
+
+What I understand better about algorithms now:
+I understand that an algorithm is a clear sequence of steps used to solve a problem. I also understand that inputs, outputs, decisions, and loops need to be defined clearly. Writing pseudocode helps me organize the solution before writing actual code. It also makes the logic easier to review and explain.
+
+How tracing changed my confidence:
+Tracing helped me see how an algorithm behaves one step at a time. It made it easier to check whether decisions and loops produce the expected result. I became more confident because I could test the logic manually before thinking about code.
+
+One pseudocode habit I will keep:
+I will keep writing clear inputs and outputs before writing the main steps. I will also handle edge cases and use clear IF and loop conditions.
+
+All required files are on main: Yes
